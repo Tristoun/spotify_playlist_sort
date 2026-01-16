@@ -3,9 +3,9 @@ Create a virtual environment
 ```bash
 python3 -m venv spotify_playlist_sort
 cd spotify_playlist_sort
-git clone ..
+git clone https://github.com/Tristoun/spotify_playlist_sort.git
 source bin/activate
-cd ..
+cd spotify_playlist_sort
 pip install -r requirements.txt
 ```
 
